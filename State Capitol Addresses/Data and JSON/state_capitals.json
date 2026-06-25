@@ -1,0 +1,452 @@
+[
+    {
+        "stateFlagCode": "",
+        "state": "Alabama",
+        "StateCapitolBuildingName": "Alabama State Capitol",
+        "StateCapitolAddress": "600 Dexter Avenue (capitol), 11 South Union Street (state house)",
+        "StateCapitolCity": "Montgomery",
+        "StateCapitolHeight(feet)": "119",
+        "StateCapitolConstructionYears": "1850\u00e2\u0080\u00931851 (capitol), \\n1885 (East wing), \\n1903\u00e2\u0080\u00931906 (South wing), \\n1911\u00e2\u0080\u00931912 (North wing), \\n1960 (State House)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Alaska",
+        "StateCapitolBuildingName": "Alaska State Capitol",
+        "StateCapitolAddress": "120 4th Street",
+        "StateCapitolCity": "Juneau",
+        "StateCapitolHeight(feet)": "118",
+        "StateCapitolConstructionYears": "1929\u00e2\u0080\u00931931"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Arizona",
+        "StateCapitolBuildingName": "Arizona State Capitol",
+        "StateCapitolAddress": "1700 West Washington Street",
+        "StateCapitolCity": "Phoenix",
+        "StateCapitolHeight(feet)": "92",
+        "StateCapitolConstructionYears": "1899\u00e2\u0080\u00931900"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Arkansas",
+        "StateCapitolBuildingName": "Arkansas State Capitol",
+        "StateCapitolAddress": "500 Woodlane Street",
+        "StateCapitolCity": "Little Rock",
+        "StateCapitolHeight(feet)": "230",
+        "StateCapitolConstructionYears": "1899\u00e2\u0080\u00931915"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "California",
+        "StateCapitolBuildingName": "California State Capitol",
+        "StateCapitolAddress": "1010 L Street",
+        "StateCapitolCity": "Sacramento",
+        "StateCapitolHeight(feet)": "247",
+        "StateCapitolConstructionYears": "1860\u00e2\u0080\u00931874"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Colorado",
+        "StateCapitolBuildingName": "Colorado State Capitol",
+        "StateCapitolAddress": "200 East Colfax Avenue",
+        "StateCapitolCity": "Denver",
+        "StateCapitolHeight(feet)": "272",
+        "StateCapitolConstructionYears": "1886\u00e2\u0080\u00931907"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Connecticut",
+        "StateCapitolBuildingName": "Connecticut State Capitol",
+        "StateCapitolAddress": "210 Capitol Avenue",
+        "StateCapitolCity": "Hartford",
+        "StateCapitolHeight(feet)": "257",
+        "StateCapitolConstructionYears": "1872\u00e2\u0080\u00931879"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Delaware",
+        "StateCapitolBuildingName": "Delaware Legislative Hall",
+        "StateCapitolAddress": "410 Legislative Avenue",
+        "StateCapitolCity": "Dover",
+        "StateCapitolHeight(feet)": "70",
+        "StateCapitolConstructionYears": "1933-1933\\n 1965-1970 (north and south wings)\\n 1994 (expansion of east wings)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Florida",
+        "StateCapitolBuildingName": "Florida State Capitol",
+        "StateCapitolAddress": "400 South Monroe Street",
+        "StateCapitolCity": "Tallahassee",
+        "StateCapitolHeight(feet)": "322",
+        "StateCapitolConstructionYears": "1973\u00e2\u0080\u00931977"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Georgia",
+        "StateCapitolBuildingName": "Georgia State Capitol",
+        "StateCapitolAddress": "206 Washington Street Southwest",
+        "StateCapitolCity": "Atlanta",
+        "StateCapitolHeight(feet)": "272",
+        "StateCapitolConstructionYears": "1883\u00e2\u0080\u00931889"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Hawaii",
+        "StateCapitolBuildingName": "Hawaii State Capitol",
+        "StateCapitolAddress": "415 South Beretania Street",
+        "StateCapitolCity": "Honolulu",
+        "StateCapitolHeight(feet)": "100",
+        "StateCapitolConstructionYears": "1960\u00e2\u0080\u00931969"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Idaho",
+        "StateCapitolBuildingName": "Idaho State Capitol",
+        "StateCapitolAddress": "700 West Jefferson Street",
+        "StateCapitolCity": "Boise",
+        "StateCapitolHeight(feet)": "208",
+        "StateCapitolConstructionYears": "1905\u00e2\u0080\u00931913\\n1919\u00e2\u0080\u00931920 (wings)\\n2008\u00e2\u0080\u00932010 (underground wings)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Illinois",
+        "StateCapitolBuildingName": "Illinois State Capitol",
+        "StateCapitolAddress": "401 South 2nd Street",
+        "StateCapitolCity": "Springfield",
+        "StateCapitolHeight(feet)": "361",
+        "StateCapitolConstructionYears": "1884\u00e2\u0080\u00931887 (construction)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Indiana",
+        "StateCapitolBuildingName": "Indiana Statehouse",
+        "StateCapitolAddress": "200 West Washington Street",
+        "StateCapitolCity": "Indianapolis",
+        "StateCapitolHeight(feet)": "256",
+        "StateCapitolConstructionYears": "1877\u00e2\u0080\u00931888"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Iowa",
+        "StateCapitolBuildingName": "Iowa State Capitol",
+        "StateCapitolAddress": "1007 E Grand Ave",
+        "StateCapitolCity": "Des Moines",
+        "StateCapitolHeight(feet)": "275",
+        "StateCapitolConstructionYears": "1871\u00e2\u0080\u00931886"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Kansas",
+        "StateCapitolBuildingName": "Kansas State Capitol",
+        "StateCapitolAddress": "300 West 10th Avenue",
+        "StateCapitolCity": "Topeka",
+        "StateCapitolHeight(feet)": "326",
+        "StateCapitolConstructionYears": "1866\u00e2\u0080\u00931873 (east wing), \\n1879\u00e2\u0080\u00931881 (west wing), \\n1884\u00e2\u0080\u00931906 (center)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Kentucky",
+        "StateCapitolBuildingName": "Kentucky State Capitol",
+        "StateCapitolAddress": "700 Capitol Avenue",
+        "StateCapitolCity": "Frankfort",
+        "StateCapitolHeight(feet)": "210",
+        "StateCapitolConstructionYears": "1905\u00e2\u0080\u00931910"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Louisiana",
+        "StateCapitolBuildingName": "Louisiana State Capitol",
+        "StateCapitolAddress": "900 North Third Street",
+        "StateCapitolCity": "Baton Rouge",
+        "StateCapitolHeight(feet)": "450",
+        "StateCapitolConstructionYears": "1930\u00e2\u0080\u00931932"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Maine",
+        "StateCapitolBuildingName": "Maine State House",
+        "StateCapitolAddress": "210 State Street",
+        "StateCapitolCity": "Augusta",
+        "StateCapitolHeight(feet)": "185",
+        "StateCapitolConstructionYears": "1828\u00e2\u0080\u00931832\\n 1889\u00e2\u0080\u00931891 (wing)\\n 1909\u00e2\u0080\u00931911 (wings)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Maryland",
+        "StateCapitolBuildingName": "Maryland State House",
+        "StateCapitolAddress": "100 State Circle",
+        "StateCapitolCity": "Annapolis",
+        "StateCapitolHeight(feet)": "181",
+        "StateCapitolConstructionYears": "1772\u00e2\u0080\u00931797"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Massachusetts",
+        "StateCapitolBuildingName": "Massachusetts State House",
+        "StateCapitolAddress": "24 Beacon Street",
+        "StateCapitolCity": "Boston",
+        "StateCapitolHeight(feet)": "200",
+        "StateCapitolConstructionYears": "1795\u00e2\u0080\u00931798"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Michigan",
+        "StateCapitolBuildingName": "Michigan State Capitol",
+        "StateCapitolAddress": "100 North Capitol Avenue",
+        "StateCapitolCity": "Lansing",
+        "StateCapitolHeight(feet)": "270",
+        "StateCapitolConstructionYears": "1872\u00e2\u0080\u00931878 (opened in 1879)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Minnesota",
+        "StateCapitolBuildingName": "Minnesota State Capitol",
+        "StateCapitolAddress": "75 Rev. Martin Luther King Jr Boulevard",
+        "StateCapitolCity": "Saint Paul",
+        "StateCapitolHeight(feet)": "223",
+        "StateCapitolConstructionYears": "1893\u00e2\u0080\u00931905"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Mississippi",
+        "StateCapitolBuildingName": "Mississippi State Capitol",
+        "StateCapitolAddress": "400 High Street",
+        "StateCapitolCity": "Jackson",
+        "StateCapitolHeight(feet)": "180",
+        "StateCapitolConstructionYears": "1901\u00e2\u0080\u00931903"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Missouri",
+        "StateCapitolBuildingName": "Missouri State Capitol",
+        "StateCapitolAddress": "201 West Capitol Avenue",
+        "StateCapitolCity": "Jefferson City",
+        "StateCapitolHeight(feet)": "238",
+        "StateCapitolConstructionYears": "1911\u00e2\u0080\u00931917"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Montana",
+        "StateCapitolBuildingName": "Montana State Capitol",
+        "StateCapitolAddress": "1301 East 6th Avenue",
+        "StateCapitolCity": "Helena",
+        "StateCapitolHeight(feet)": "165",
+        "StateCapitolConstructionYears": "1896\u00e2\u0080\u00931902\\n 1909\u00e2\u0080\u00931912 (wings)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Nebraska",
+        "StateCapitolBuildingName": "Nebraska State Capitol",
+        "StateCapitolAddress": "1445 K Street",
+        "StateCapitolCity": "Lincoln",
+        "StateCapitolHeight(feet)": "400",
+        "StateCapitolConstructionYears": "1919\u00e2\u0080\u00931932"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "New Hampshire",
+        "StateCapitolBuildingName": "New Hampshire State House",
+        "StateCapitolAddress": "107 North Main Street",
+        "StateCapitolCity": "Concord",
+        "StateCapitolHeight(feet)": "150",
+        "StateCapitolConstructionYears": "1815\u00e2\u0080\u00931818"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "New Jersey",
+        "StateCapitolBuildingName": "New Jersey State House",
+        "StateCapitolAddress": "125 West State Street",
+        "StateCapitolCity": "Trenton",
+        "StateCapitolHeight(feet)": "145",
+        "StateCapitolConstructionYears": "1792-1792"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "New Mexico",
+        "StateCapitolBuildingName": "New Mexico State Capitol",
+        "StateCapitolAddress": "490 Old Santa Fe Trail",
+        "StateCapitolCity": "Santa Fe",
+        "StateCapitolHeight(feet)": "35",
+        "StateCapitolConstructionYears": "1964\u00e2\u0080\u00931966"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Nevada",
+        "StateCapitolBuildingName": "Nevada State Capitol",
+        "StateCapitolAddress": "101 North Carson Street",
+        "StateCapitolCity": "StreetCarson City",
+        "StateCapitolHeight(feet)": "120",
+        "StateCapitolConstructionYears": "1869\u00961871"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "New York",
+        "StateCapitolBuildingName": "New York State Capitol",
+        "StateCapitolAddress": "State Street and Washington Avenue",
+        "StateCapitolCity": "Albany",
+        "StateCapitolHeight(feet)": "220",
+        "StateCapitolConstructionYears": "1867\u00e2\u0080\u00931899"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "North Carolina",
+        "StateCapitolBuildingName": "North Carolina State Capitol",
+        "StateCapitolAddress": "1 East Edenton Street (capitol), 16 West Jones Street (legislative building)",
+        "StateCapitolCity": "Raleigh",
+        "StateCapitolHeight(feet)": "98",
+        "StateCapitolConstructionYears": "1833-1840, \\n1963 (Legislative Building)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "North Dakota",
+        "StateCapitolBuildingName": "North Dakota State Capitol",
+        "StateCapitolAddress": "600 East Boulevard Avenue",
+        "StateCapitolCity": "Bismarck",
+        "StateCapitolHeight(feet)": "242",
+        "StateCapitolConstructionYears": "1920\u00e2\u0080\u00931924\\n 1931\u00e2\u0080\u00931934 (office tower & wing)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Ohio",
+        "StateCapitolBuildingName": "Ohio Statehouse",
+        "StateCapitolAddress": "1 Capitol Square",
+        "StateCapitolCity": "Columbus",
+        "StateCapitolHeight(feet)": "158",
+        "StateCapitolConstructionYears": "1837\u00e2\u0080\u00931861"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Oklahoma",
+        "StateCapitolBuildingName": "Oklahoma State Capitol",
+        "StateCapitolAddress": "2300 North Lincoln Boulevard",
+        "StateCapitolCity": "Oklahoma City",
+        "StateCapitolHeight(feet)": "255",
+        "StateCapitolConstructionYears": "1914\u00e2\u0080\u00931917\\n 2000-2002 (dome)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Oregon",
+        "StateCapitolBuildingName": "Oregon State Capitol",
+        "StateCapitolAddress": "900 Court Street Northeast",
+        "StateCapitolCity": "Salem",
+        "StateCapitolHeight(feet)": "162",
+        "StateCapitolConstructionYears": "1935-1935\\n 1977 (wings)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Pennsylvania",
+        "StateCapitolBuildingName": "Pennsylvania State Capitol",
+        "StateCapitolAddress": "501 North 3rd Street",
+        "StateCapitolCity": "Harrisburg",
+        "StateCapitolHeight(feet)": "272",
+        "StateCapitolConstructionYears": "1904-1906"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Rhode Island",
+        "StateCapitolBuildingName": "Rhode Island State House",
+        "StateCapitolAddress": "82 Smith Street",
+        "StateCapitolCity": "Providence",
+        "StateCapitolHeight(feet)": "223",
+        "StateCapitolConstructionYears": "1895\u00e2\u0080\u00931904"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "South Carolina",
+        "StateCapitolBuildingName": "South Carolina State House",
+        "StateCapitolAddress": "1100 Gervais Street",
+        "StateCapitolCity": "Columbia",
+        "StateCapitolHeight(feet)": "180",
+        "StateCapitolConstructionYears": "1855-1907"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "South Dakota",
+        "StateCapitolBuildingName": "South Dakota State Capitol",
+        "StateCapitolAddress": "500 East Capitol Avenue",
+        "StateCapitolCity": "Pierre",
+        "StateCapitolHeight(feet)": "161",
+        "StateCapitolConstructionYears": "1905\u00e2\u0080\u00931911"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Tennessee",
+        "StateCapitolBuildingName": "Tennessee State Capitol",
+        "StateCapitolAddress": "600 Dr. M.L.K. Jr. Boulevard",
+        "StateCapitolCity": "Nashville",
+        "StateCapitolHeight(feet)": "206",
+        "StateCapitolConstructionYears": "1845\u00e2\u0080\u00931859"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Texas",
+        "StateCapitolBuildingName": "Texas State Capitol",
+        "StateCapitolAddress": "1100 Congress Avenue",
+        "StateCapitolCity": "Austin",
+        "StateCapitolHeight(feet)": "311",
+        "StateCapitolConstructionYears": "1881\u00e2\u0080\u00931888\\n1993 (underground extension)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Utah",
+        "StateCapitolBuildingName": "Utah State Capitol",
+        "StateCapitolAddress": "350 State Street",
+        "StateCapitolCity": "Salt Lake City",
+        "StateCapitolHeight(feet)": "286",
+        "StateCapitolConstructionYears": "1912\u00e2\u0080\u00931916\\n2004-2008 (major restoration and renovation)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Vermont",
+        "StateCapitolBuildingName": "Vermont State House",
+        "StateCapitolAddress": "115 State Street",
+        "StateCapitolCity": "Montpelier",
+        "StateCapitolHeight(feet)": "136",
+        "StateCapitolConstructionYears": "1834\u00e2\u0080\u00931836"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Virginia",
+        "StateCapitolBuildingName": "Virginia State Capitol",
+        "StateCapitolAddress": "1000 Bank Street",
+        "StateCapitolCity": "Richmond",
+        "StateCapitolHeight(feet)": "83",
+        "StateCapitolConstructionYears": "1785\u00e2\u0080\u00931790\\n 1904\u00e2\u0080\u00931906 (wings); restored, renovated and expanded 2004-2007"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Washington",
+        "StateCapitolBuildingName": "Washington State Capitol",
+        "StateCapitolAddress": "416 Sid Snyder Avenue Southwest",
+        "StateCapitolCity": "Olympia",
+        "StateCapitolHeight(feet)": "287",
+        "StateCapitolConstructionYears": "1919\u00e2\u0080\u00931928 (Legislative building)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "West Virginia",
+        "StateCapitolBuildingName": "West Virginia State Capitol",
+        "StateCapitolAddress": "1900 Kanawha Boulevard East",
+        "StateCapitolCity": "Charleston",
+        "StateCapitolHeight(feet)": "292",
+        "StateCapitolConstructionYears": "1924\u00e2\u0080\u00931932"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Wisconsin",
+        "StateCapitolBuildingName": "Wisconsin State Capitol",
+        "StateCapitolAddress": "2 East Main Street",
+        "StateCapitolCity": "Madison",
+        "StateCapitolHeight(feet)": "284",
+        "StateCapitolConstructionYears": "1906\u00e2\u0080\u00931917\\n1988-2002 (major renovation and restoration)"
+    },
+    {
+        "stateFlagCode": "",
+        "state": "Wyoming",
+        "StateCapitolBuildingName": "Wyoming State Capitol",
+        "StateCapitolAddress": "200 West 24th Street",
+        "StateCapitolCity": "Cheyenne",
+        "StateCapitolHeight(feet)": "146",
+        "StateCapitolConstructionYears": "1886\u00e2\u0080\u00931890\\n1915\u00e2\u0080\u00931917 (House and Senate chambers)"
+    }
+]
